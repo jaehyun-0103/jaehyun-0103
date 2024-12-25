@@ -43,12 +43,17 @@
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jaehyun-0103&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyun-0103&layout=compact&theme=radical&hide_border=true" />
 
+  <br>
+  <br>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehyun-0103&count_bg=%23399DC6&title_bg=%236D6D6D&icon=&icon_color=%23E7E7E7&title=hits%F0%9F%8E%89&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>📫Contact📫</h3>
+  <h3>🔗Links🔗</h3>
 </div>
 
 <div align="center">
@@ -56,15 +61,6 @@
   [![Velog Blog](https://img.shields.io/badge/Velog-Blog-20C997?style=flat&logo=blogger&logoColor=white)](https://velog.io/@jjaehyun/posts)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![Portfolio](https://img.shields.io/badge/Notion-Portfolio-1D72C2?style=flat&logo=notion&logoColor=white)](https://aquamarine-question-698.notion.site/Jo-Jae-Hyun-4eea6eb2ca3f46ceae591187cef79abe)
-
-</div>
-
-<br>
-<br>
-
-<div align="center">
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehyun-0103&count_bg=%23399DC6&title_bg=%236D6D6D&icon=&icon_color=%23E7E7E7&title=hits%F0%9F%8E%89&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
