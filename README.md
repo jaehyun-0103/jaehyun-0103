@@ -1,5 +1,3 @@
-# jaehyun
-
 <div align="center">
   <h3>✨Tech Skill✨</h3>
 </div>
