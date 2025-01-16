@@ -24,6 +24,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+  (코드 해석 가능, 효율적인 설계 경험은 제한적)
   
   - **DevOps**: 
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
